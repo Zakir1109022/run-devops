@@ -37,3 +37,4 @@ G:\Microservice-Projects\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\
 G:\Microservice-Projects\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.pdb
 G:\Microservice-Projects\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.genruntimeconfig.cache
 G:\Microservice-Projects\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.csproj.CopyComplete
+G:\Microservice-Projects\run-devops\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.csprojAssemblyReference.cache
