@@ -5,3 +5,5 @@
 /.vs
 /Shopping/.vs/Shopping/v16
 /Shopping/.vs/Shopping/DesignTimeBuild
+/Shopping/bin/Debug
+/Shopping/obj
