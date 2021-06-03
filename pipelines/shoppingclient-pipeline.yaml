@@ -18,7 +18,7 @@ variables:
 
   # Container registry service connection established during pipeline creation
   dockerRegistryServiceConnection: 'd705ac22-d4dc-4dee-8cd3-aa0ba9c81b09'
-  imageRepository: 'shoppingClient'
+  imageRepository: 'shoppingclient'
   containerRegistry: 'shoppingmicroserviceacr.azurecr.io'
   dockerfilePath: '**/Dockerfile'
   tag: '$(Build.BuildId)'
