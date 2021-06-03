@@ -39,7 +39,7 @@ namespace Shopping.API.Data
                     Name = "IPhone X",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-1.png",
-                    Price = 950.00M,
+                    Price = 100.00M,
                     Category = "Smart Phone"
                 },
                 new Product()
@@ -47,7 +47,7 @@ namespace Shopping.API.Data
                     Name = "Samsung 10",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-2.png",
-                    Price = 840.00M,
+                    Price = 200.00M,
                     Category = "Smart Phone"
                 },
                 new Product()
@@ -55,7 +55,7 @@ namespace Shopping.API.Data
                     Name = "Huawei Plus",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-3.png",
-                    Price = 650.00M,
+                    Price = 300.00M,
                     Category = "White Appliances"
                 },
                 new Product()
@@ -63,7 +63,7 @@ namespace Shopping.API.Data
                     Name = "Xiaomi Mi 9",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-4.png",
-                    Price = 470.00M,
+                    Price = 400.00M,
                     Category = "White Appliances"
                 },
                 new Product()
@@ -71,7 +71,7 @@ namespace Shopping.API.Data
                     Name = "HTC U11+ Plus",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-5.png",
-                    Price = 380.00M,
+                    Price = 500.00M,
                     Category = "Smart Phone"
                 },
                 new Product()
@@ -79,7 +79,7 @@ namespace Shopping.API.Data
                     Name = "LG G7 ThinQ EndofCourse",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-6.png",
-                    Price = 240.00M,
+                    Price = 600.00M,
                     Category = "Home Kitchen"
                 }
             };
