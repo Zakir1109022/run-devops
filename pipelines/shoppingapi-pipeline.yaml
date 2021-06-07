@@ -60,7 +60,7 @@ stages:
     displayName: Deploy
     pool:
       vmImage: $(vmImageName)
-    environment: 'Zakir1109022rundevops.default'
+    environment: 'Zakir1109022rundevops-1743.default'
     strategy:
       runOnce:
         deploy:
